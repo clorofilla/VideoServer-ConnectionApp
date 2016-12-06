@@ -1,0 +1,255 @@
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ADODB.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ADOMD.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ADOR.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ADODB.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ADOMD.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ADOR.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Users\malik\Desktop\8VIVOTEKvbtestconvertitSISIregistr\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\fattisorg\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\ermesa\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\MON03\Desktop\vivo+wamonitor_non_toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache

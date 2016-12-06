@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<settings>
+  <Parcheggi>
+    <Identificativi>prk02,prk04,prk07,prk08,prk09,prk10,prk11,prk13,prk14,prk15,prk16,prk17,prk18,prk19,prk20,prk21,prk22,prk23,prk24,prk25,prk26,prk27,prk28,prk29,prk30,prk31,prk32,prk33,prk34,prk35</Identificativi>
+  </Parcheggi>
+<prk02>
+     <name>Zucchi, Reggio Emilia, RE</name>
+    <server_ip>192.168.12.31</server_ip>
+    <server_ip_c>192.168.12.32</server_ip_c>
+    <out_gates>3,3,2,2</out_gates>
+    <id_gates>1,2,2,3,3</id_gates>
+   </prk02>
+<prk04>
+    <name>S. Marco, Conegliano TV</name>
+    <server_ip>192.168.13.31</server_ip>
+    <server_ip_c>192.168.13.31</server_ip_c>
+   <out_gates>3</out_gates>
+    <id_gates>4</id_gates>
+  </prk04>
+<prk07>
+    <name>P.ta Blu, VE</name>
+     <server_ip>192.168.16.131</server_ip>
+     <server_ip_c>192.168.16.31</server_ip_c>
+     <out_gates>3</out_gates>
+     <id_gates>1</id_gates>
+</prk07>
+<prk08>
+    <name>P.ta Rossa, VE</name>
+    <server_ip>192.168.16.31</server_ip>
+    <server_ip_c>192.168.16.31</server_ip_c>
+    <out_gates>3</out_gates>
+    <id_gates>2</id_gates>
+</prk08>
+  <prk09>
+     <name>Busonera, Padova PD</name>
+    <server_ip>172.18.4.31</server_ip>
+<server_ip_c>172.18.4.31</server_ip_c>
+<out_gates>1,1</out_gates>
+    <id_gates>2,2,3</id_gates>
+</prk09>
+<prk10>
+<name>Don Giussani, Desio MI</name>
+    <server_ip>192.168.17.33</server_ip>
+    <server_ip_c>192.168.17.33</server_ip_c>
+    <out_gates>4</out_gates>
+    <id_gates>1,1</id_gates>
+    </prk10>
+<prk11>
+    <name>Mazzoni, Ascoli Transiti</name>
+    <server_ip>192.168.18.31</server_ip>
+    <server_ip_c>192.168.18.31</server_ip_c>
+    <out_gates>2</out_gates>
+    <id_gates>1</id_gates>
+</prk11>
+<prk13>
+    <name>Corsica, Grosseto GR</name>
+   <server_ip>192.168.19.31</server_ip>
+   <server_ip_c>192.168.19.31</server_ip_c>
+   <out_gates>1,1</out_gates>
+    <id_gates>3,3</id_gates>
+  </prk13>
+<prk14>
+   <name>Coop, Trieste TS</name>
+    <server_ip>192.168.20.31</server_ip>
+<server_ip_c>192.168.20.31</server_ip_c>
+<out_gates>1</out_gates>
+    <id_gates>3,4</id_gates>
+  </prk14>
+<prk15>
+    <name>Gerosa, Bassano (VI)</name>
+    <server_ip>192.168.21.31</server_ip>
+<server_ip_c>192.168.21.31</server_ip_c>
+<out_gates>2</out_gates>
+    <id_gates>3</id_gates>
+  </prk15>
+<prk16>
+<name>Oberdan, Grosseto GR</name>
+     <server_ip>192.168.24.31</server_ip>
+<server_ip_c>192.168.24.31</server_ip_c>
+  <out_gates>1,1</out_gates>
+    <id_gates>4,4</id_gates>
+</prk16>
+<prk17>
+    <name>Svec, Padova PD</name>
+    <server_ip>192.168.23.31</server_ip>
+    <server_ip_c>192.168.23.31</server_ip_c>
+   <out_gates>3</out_gates>
+    <id_gates>2,2</id_gates>
+</prk17>
+<prk18>
+    <name>Stazione, Schio VI</name>
+    <server_ip>192.168.25.31</server_ip>
+    <server_ip_c>192.168.25.31</server_ip_c>
+   <out_gates>1,1</out_gates>
+    <id_gates>2</id_gates>
+</prk18>
+<prk19>
+    <name>Egle, Padova PD</name>
+    <server_ip>192.168.26.31</server_ip>
+<server_ip_c>192.168.26.31</server_ip_c>
+<out_gates>1</out_gates>
+    <id_gates>3</id_gates>
+  </prk19>
+<prk20>
+    <name>Cattinara, Trieste TS</name>
+    <server_ip>192.168.22.31</server_ip>
+<server_ip_c>192.168.22.31</server_ip_c>
+<out_gates>4</out_gates>
+    <id_gates>1,3</id_gates>
+  </prk20>
+<prk21>
+     <name>Marriott, Milano MI</name>
+     <server_ip>192.168.27.31</server_ip>
+<server_ip_c>192.168.27.31</server_ip_c>
+<out_gates>1</out_gates>
+<id_gates>2</id_gates>
+   </prk21>
+<prk22> 
+<name>Caffi, Belluno BL</name>
+    <server_ip>192.168.28.31</server_ip>
+    <server_ip_c>192.168.28.32</server_ip_c>
+ <out_gates>1,3,4</out_gates>
+<id_gates>1,1,4,2</id_gates>
+ </prk22>
+ <prk23>
+    <name>Amiata, Grosseto GR</name>
+    <server_ip>192.168.29.31</server_ip>
+    <server_ip_c>192.168.29.31</server_ip_c>
+<out_gates>2,2,3</out_gates>
+<id_gates>4,4</id_gates>
+  </prk23>   
+<prk24>
+    <name>Maremma, Grosseto GR</name>
+    <server_ip>192.168.30.31</server_ip>
+    <server_ip_c>192.168.30.31</server_ip_c>
+  <out_gates>3,3</out_gates>
+<id_gates>2,2,2</id_gates>
+</prk24>
+<prk25>
+    <name>Cadorna New, Bassano VI</name>
+    <server_ip>192.168.11.31</server_ip>
+    <server_ip_c>192.168.11.31</server_ip_c>
+  <out_gates>2,2</out_gates>
+<id_gates>4,4,4</id_gates>
+</prk25>
+<prk26>
+    <name>Aeroporto Rimini</name>
+    <server_ip>192.168.31.31</server_ip>
+    <server_ip_c>192.168.31.31</server_ip_c>
+  <out_gates>2</out_gates>
+<id_gates>3,4</id_gates>
+</prk26>
+<prk27>
+    <name>Piazza Insurrezione ,PD</name>
+    <server_ip>192.168.32.31</server_ip>
+    <server_ip_c>192.168.32.31</server_ip_c>
+<out_gates>2</out_gates>
+<id_gates>3,3,3</id_gates>
+  </prk27>
+<prk28>
+    <name>Linea, Marghera</name>
+    <server_ip>192.168.33.31</server_ip>
+    <server_ip_c>192.168.33.31</server_ip_c>
+<out_gates>3</out_gates>
+<id_gates>1</id_gates>
+  </prk28>
+<prk29>
+    <name>Multipark, Padova PD</name>
+    <server_ip>192.168.34.31</server_ip>
+    <server_ip_c>192.168.34.31</server_ip_c>
+<out_gates>2</out_gates>
+<id_gates>4,4</id_gates>
+  </prk29>
+<prk30>
+    <name>Cittadella</name>
+    <server_ip>192.168.35.31</server_ip>
+    <server_ip_c>192.168.35.31</server_ip_c>
+  <out_gates>4</out_gates>
+<id_gates>3</id_gates>
+</prk30>
+<prk31>
+    <name>Rabin, PD</name>
+    <server_ip>192.168.37.31</server_ip>
+    <server_ip_c>192.168.37.31</server_ip_c>
+  <out_gates>1,3</out_gates>
+<id_gates>4,4,4,4,4</id_gates>
+</prk31>
+<prk32>
+    <name>Caorle Comune</name>
+    <server_ip>192.168.36.31</server_ip>
+    <server_ip_c>192.168.36.31</server_ip_c>
+  <out_gates>4</out_gates>
+<id_gates>2</id_gates>
+</prk32>
+<prk33>
+    <name>Appiani, VI</name>
+    <server_ip>192.168.38.31</server_ip>
+    <server_ip_c>192.168.38.31</server_ip_c>
+  <out_gates>1</out_gates>
+<id_gates>2</id_gates>
+</prk33>
+<prk34>
+    <name>PD EST</name>
+    <server_ip>192.168.39.31</server_ip>
+    <server_ip_c>192.168.39.31</server_ip_c>
+  <out_gates>2</out_gates>
+<id_gates>1</id_gates>
+</prk34>
+<prk35>
+    <name>Boschetti, PD</name>
+    <server_ip>192.168.40.31</server_ip>
+    <server_ip_c>192.168.40.31</server_ip_c>
+  <out_gates>2</out_gates>
+<id_gates>1</id_gates>
+</prk35>
+</settings>

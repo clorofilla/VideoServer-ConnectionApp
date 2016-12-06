@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="vbtestp">
+</Property><Property Name="Solution File" Value="C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\vbtestp.sln">
+</Property><Property Name="User Options File" Value="C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\vbtestp.suo">
+</Property><Property Name="Date" Value="mercoledì 10 agosto 2011">
+</Property><Property Name="Time" Value="16.44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="vbtestp.sln" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\vbtestp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="vbtestp.suo" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\vbtestp.suo">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="vbtestp.vbproj" Description="Project file successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\vbtestp.vbproj">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="vbtestp.vbproj.user" Description="Project user file successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\vbtestp.vbproj.user">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="ApplicationEvents.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Classes\File_manager.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Classes\File_manager.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Classes\Park_manager.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Classes\Park_manager.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Forms\POPtest.Designer.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Forms\POPtest.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Forms\POPtest.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Forms\POPtest.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Modules\BrowseFolders.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Modules\BrowseFolders.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Modules\Park_support.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Modules\Park_support.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Project1.vshost.exe.manifest" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Project1.vshost.exe.manifest">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\settings.ini" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\settings.ini">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="_UpgradeReport.htm" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="app.config" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\AxInterop.VITAMINDECODERLib.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\AxInterop.VITAMINDECODERLib.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ActiveDs.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ActiveDs.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ActiveXDocumentWizard6.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ActiveXDocumentWizard6.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ADODB.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ADODB.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ADOMD.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ADOMD.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ADOR.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ADOR.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.ISWFrame.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.ISWFrame.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.MigV2.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.MigV2.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.MSWinsockLib.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.MSWinsockLib.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.RDO.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.RDO.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.VBA.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.VBA.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.VBIDE.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.VBIDE.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.VITAMINDECODERLib.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.VITAMINDECODERLib.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Interop.WMPLib.dll" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Interop.WMPLib.dll">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\park_settings.xml" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\park_settings.xml">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Project1.exe" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Project1.exe">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Project1.pdb" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Project1.pdb">
+</Event><Event ErrorLevel="2" Project="vbtestp" Source="bin\Project1.vshost.exe" Description="Failed to backup file as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Project1.vshost.exe">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="bin\Project1.xml" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\bin\Project1.xml">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="park_settings.xml" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\park_settings.xml">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="Forms\POPtest.resx" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\Forms\POPtest.resx">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Programmi\web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="vbtestp" Source="vbtestp.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="vbtestp" Source="vbtestp.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="vbtestp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="vbtestp.sln" Description="Converted">
+</Event></UpgradeLog>

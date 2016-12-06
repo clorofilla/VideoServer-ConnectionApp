@@ -1,0 +1,276 @@
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\ermesa\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+C:\Programmi\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\zaki\Desktop\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+D:\Download\Non toccare!!!\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe.config
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtest_p.pdb
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.pdb
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VBIDE.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\ResolveAssemblyReference.cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VBIDE.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.ResolveComReference.cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.form1.resources
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Debug\vbtestp.vbproj.GenerateResource.Cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.ResolveComReference.cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtestp.vbproj.GenerateResource.Cache
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_Refresh\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll

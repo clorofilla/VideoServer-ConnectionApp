@@ -1,0 +1,274 @@
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe.config
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.exe
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\vbtest_p.xml
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\liveCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\liveCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.exe
+C:\Documents and Settings\Ermesa\Desktop\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\vbtest_p.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\livecam.exe.config
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\livecam.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\livecam.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\ResolveAssemblyReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.form1.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\WindowsApplication1.Resources.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\livecam.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\VIVOTEK_pop\Project1.NET3\vbtestp\obj\Release\livecam.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\livecam.exe.config
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\livecam.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\livecam.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\livecam.exe
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\livecam.xml
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.ActiveDs.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.ADOX.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.DAO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.ISWFrame.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.MigV2.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.MSAdodcLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.MSWinsockLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.RDO.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.VBA.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\Interop.WMPLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\ResolveAssemblyReference.cache
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\WindowsApplication1.form1.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\WindowsApplication1.Resources.resources
+C:\Programmi\Web2Park Vivo_refresh+Wamonitor\Livecam\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\livecam.exe.config
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\livecam.xml
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\livecam.xml
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_remoto\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\livecam.exe.config
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\livecam.xml
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.xml
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\bin\Release\livecam.exe.config
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ActiveDs.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ActiveXDocumentWizard6.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ADOX.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.DAO.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.ISWFrame.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MigV2.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MSAdodcLib.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.MSWinsockLib.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.RDO.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VBA.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VBIDE.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.VITAMINDECODERLib.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\Interop.WMPLib.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\AxInterop.VITAMINDECODERLib.dll
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.vbproj.ResolveComReference.cache
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.exe
+D:\DATI\MONITORS\MONITOR_SW\LIVECAM_2.1.1_LOCALE\obj\Release\livecam.xml
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\livecam.exe.config
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\livecam.xml
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.ActiveDs.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.ADOX.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.DAO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.ISWFrame.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.MigV2.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.MSAdodcLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.MSWinsockLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.RDO.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\WindowsApplication1.form1.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\livecam.exe
+C:\Documents and Settings\Ermesa\Desktop\LIVECAM_2.1.2_LOCALE_newserver\obj\Release\livecam.xml
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\livecam.exe.config
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\livecam.exe
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\livecam.xml
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.ActiveDs.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.ADOX.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.DAO.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.MigV2.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.MSAdodcLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.MSWinsockLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.RDO.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.VBA.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.VBIDE.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.VITAMINDECODERLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\Interop.WMPLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\bin\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.ActiveDs.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.ActiveXDocumentWizard6.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.ADOX.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.DAO.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.MigV2.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.MSAdodcLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.MSWinsockLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.RDO.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.VBA.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.VBIDE.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.VITAMINDECODERLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\Interop.WMPLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\AxInterop.VITAMINDECODERLib.dll
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\livecam.vbproj.ResolveComReference.cache
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\WindowsApplication1.form1.resources
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\livecam.vbproj.GenerateResource.Cache
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\livecam.exe
+C:\Users\ErmesaLina\Desktop\LIVECAM\obj\Release\livecam.xml
